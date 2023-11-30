@@ -1,6 +1,6 @@
 # GPT-2 Training Script Development
 
-This task has been done as a part of application to SuperAGI for AI roles.
+This task has been done as a part of application for AI roles at SuperAGI.
 ## Introduction
 
 A training script for the GPT-2 model. This endeavor has been an enlightening journey, providing deep insights into the complexities of language model training. 
