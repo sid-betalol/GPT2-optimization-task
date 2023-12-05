@@ -1,11 +1,8 @@
 # GPT-2 Training Script Development
 
-This task has been done as a part of application for AI roles at SuperAGI.
-## Introduction
-
 A training script for the GPT-2 model. This endeavor has been an enlightening journey, providing deep insights into the complexities of language model training. 
 
-## Overview of the Script
+## Overview
 
 This Python-based training script leverages the robust PyTorch framework alongside Hugging Face's Transformers, aiming to fine-tune the GPT-2 model efficiently. The script's key features include:
 
@@ -30,7 +27,3 @@ This Python-based training script leverages the robust PyTorch framework alongsi
 
 - **Memory Management**: Addressed the high memory demands of GPT-2 through gradient checkpointing and optimal batch sizing, enhancing GPU memory utilization.
 - **Hyperparameter Tuning**: Extensive experimentation was conducted to identify the optimal hyperparameter set, focusing on the balance between learning rate, batch size, and epoch count.
-
-## Conclusion
-
-This project has significantly broadened my understanding of NLP models and their underlying complexities. It has been an amalgamation of theoretical knowledge and practical challenges, offering invaluable insights into deep learning and AI.
