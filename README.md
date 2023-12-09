@@ -27,3 +27,11 @@ This Python-based training script leverages the robust PyTorch framework alongsi
 
 - **Memory Management**: Addressed the high memory demands of GPT-2 through gradient checkpointing and optimal batch sizing, enhancing GPU memory utilization.
 - **Hyperparameter Tuning**: Extensive experimentation was conducted to identify the optimal hyperparameter set, focusing on the balance between learning rate, batch size, and epoch count.
+
+## References
+- [Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language Models are Unsupervised Multitask Learners.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [nanoGPT | Andrej Karpathy](https://github.com/karpathy/nanoGPT)
+- [Let's build GPT: from scratch, in code, spelled out. | Andrej Karpathy on YouTube](https://youtu.be/kCc8FmEb1nY?si=AKphijxUHMc2CUXo)
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
+- [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/pdf/2305.13245.pdf)
+- [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150v2.pdf)
